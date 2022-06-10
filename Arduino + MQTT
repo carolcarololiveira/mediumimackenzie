@@ -11,7 +11,7 @@ DHT dht(DHTPIN, DHTTYPE);
  
 #define DEBUG
  
-#define L1 4   //pino de saida para acionamento da Lampada L1
+#define L1 4   
  
 //informações da rede WIFI
 const char* ssid = "xxxxx";                 //SSID da rede WIFI
